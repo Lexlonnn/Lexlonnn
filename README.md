@@ -77,7 +77,7 @@
 ---
 
 ## 🐍 GitHub Contributions Snake:
-![Snake animation](https://raw.githubusercontent.com/Lexxlonn/Lexxlonn/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lexxlonn/Lexxlonn/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
