@@ -1,10 +1,10 @@
 # Hey there, I'm Lexxlonn! 👋  
-### Co-Lead @CSI Tech Team | BTech CSE @ASIET | Web Developer | Tech Enthusiast  
+### Co-Lead @CSI Tech Team | BTech CSE @ASIET | Web & Flutter Developer | Tech Enthusiast  
 
 ---
 
 ## 🚀 About Me
-I'm a Computer Science student passionate about building cool tech, exploring new ideas, and collaborating with amazing people. I love working on web projects and keeping up with the latest tech trends.
+I'm a Computer Science student passionate about building cool tech, exploring new ideas, and collaborating with amazing people. I love working on web and mobile projects (especially with Flutter) and keeping up with the latest tech trends.
 
 ---
 
@@ -17,6 +17,7 @@ I'm a Computer Science student passionate about building cool tech, exploring ne
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ---
 
@@ -28,4 +29,5 @@ I'm a Computer Science student passionate about building cool tech, exploring ne
 ---
 
 ## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ravish-r-b-05697232a)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ravish-r-b-05697232a)  
+[![Instagram](https://img.shields.io/badge/-Instagram-DC3175?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/__ravishh.__?igsh=MXhpd2t1NDk3NWRhMg==)
