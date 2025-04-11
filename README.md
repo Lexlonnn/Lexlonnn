@@ -3,8 +3,15 @@
 
 ---
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Lexxlonn!;Web+%26+Flutter+Developer;Tech+Explorer+%7C+Code+Dreamer" />
+</p>
+
+---
+
 ## 🚀 About Me
-> I’m a **B.Tech CSE student at ASIET**, passionate about building clean, user-friendly apps and sites.  
+> I’m a **B.Tech CSE student at ASIET**, passionate about building clean, user-friendly apps and websites.  
 > Always exploring new tech, building projects, and vibing with great minds.
 
 ---
@@ -31,19 +38,19 @@
 ## ✨ GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lexxlonn&show_icons=true&theme=tokyonight" alt="Lexxlonn's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lexxlonn&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexxlonn&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexxlonn&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lexxlonn&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lexxlonn&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lexxlonn&theme=onedark&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lexxlonn&theme=radical&row=1&column=6" />
 </p>
 
 ---
@@ -67,4 +74,17 @@
 - Clean Architecture & App Design  
 - Tech Community Collaboration  
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+---
+
+## 🐍 GitHub Contributions Snake:
+![Snake animation](https://raw.githubusercontent.com/Lexxlonn/Lexxlonn/output/github-contribution-grid-snake.svg)
+
+---
+
+<!-- Cool GIF just for fun -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<!-- Animated Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
