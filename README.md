@@ -1,5 +1,10 @@
-# Hey there, I'm Lexlonnn! 👋  
+# Hey there, I'm Lexxlonn! 👋  
 ### Co-Lead @CSI Tech Team | BTech CSE @ASIET | Web Developer | Tech Enthusiast  
+
+---
+
+## 🚀 About Me
+I'm a Computer Science student passionate about building cool tech, exploring new ideas, and collaborating with amazing people. I love working on web projects and keeping up with the latest tech trends.
 
 ---
 
@@ -16,10 +21,11 @@
 ---
 
 ## 📊 GitHub Stats:
-![Lexlonnn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexlonnn&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexlonnn&layout=compact&theme=tokyonight)
+![Lexxlonn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lexxlonn&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lexxlonn&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ravish-r-b-05697232a)
