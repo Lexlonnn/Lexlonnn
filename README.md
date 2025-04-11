@@ -71,13 +71,8 @@
 
 ## 🧠 Currently Exploring:
 - Flutter Animations & Firebase  
-- Clean Architecture & App Design  
+- Clean Architecture  
 - Tech Community Collaboration  
-
----
-
-## 🐍 GitHub Contributions Snake:
-![Snake animation](https://github.com/Lexxlonn/Lexxlonn/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
