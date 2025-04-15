@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm <span style="color:#00BFFF;">Lexxlonn</span>! 👋</h1>  
+<h1 align="center">Hey there, I'm <span style="color:#00BFFF;">Lexlonnn</span>! 👋</h1>  
 <h3 align="center">Flutter & Web Developer | Tech Enthusiast | Co-Lead @CSI Tech Team</h3>
 
 ---
