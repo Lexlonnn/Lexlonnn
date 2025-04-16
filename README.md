@@ -38,19 +38,19 @@
 ## ✨ GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lexxlonn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lexlonnn&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexxlonn&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexlonnn&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lexxlonn&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lexxlonnn&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lexxlonn&theme=radical&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lexlonnn&theme=radical&row=1&column=6" />
 </p>
 
 ---
