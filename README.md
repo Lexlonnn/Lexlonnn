@@ -25,6 +25,7 @@
 
 ### 📱 Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
 ### 💻 Backend & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
@@ -32,6 +33,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 🧩 Projects
+
+### 📱 Dfree - *Anti-Drug Awareness App*
+A Flutter-based mobile app designed to raise awareness against drug abuse and promote a drug-free lifestyle.  
+> 🧠 **Goal:** Empower users with knowledge, tools, and support to stay drug-free.  
+> 🚀 **Built with:** Flutter, Dart  
+> 🔍 Features: Informative content, helpline resources, user interaction & more.
 
 ---
 
