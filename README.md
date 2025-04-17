@@ -11,8 +11,15 @@
 ---
 
 ## 🚀 About Me
-> I’m a **B.Tech CSE student at ASIET**, passionate about building clean, user-friendly apps and websites.  
-> Always exploring new tech, building projects, and vibing with great minds.
+Hey! I'm Lexlonnn 👨‍💻 — a passionate **Flutter & Web Developer** currently pursuing **B.Tech in CSE at ASIET**.  
+
+I love turning ideas into sleek, functional apps & websites that don’t just work — they *wow*. Whether it’s building UIs with pixel-perfect precision or experimenting with new tech, I'm all in.
+
+💡 **Curious by nature**, I'm always diving into new tools, frameworks, and architectures.  
+🧠 **Lifelong learner** & proud **code dreamer**.  
+🤝 **Tech community enthusiast** — currently Co-Lead of the CSI Tech Team @ ASIET.  
+
+> *Code. Build. Break. Fix. Repeat.* That's how I grow.
 
 ---
 
