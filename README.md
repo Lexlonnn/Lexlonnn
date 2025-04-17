@@ -91,9 +91,9 @@ A Flutter-based mobile app designed to raise awareness against drug abuse and pr
 ---
 
 ## 🧠 Currently Exploring:
-- Flutter Animations & Firebase  
-- Clean Architecture  
-- Tech Community Collaboration  
+- React.js ⚛️  
+- Unity Game Development 🎮  
+- Tech Community Collaboration 🤝  
 
 ---
 
