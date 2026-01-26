@@ -1,109 +1,71 @@
-<h1 align="center">Hey there, I'm <span style="color:#00BFFF;">Lexlonnn</span>! 👋</h1>  
-<h3 align="center">Flutter & Web Developer | Tech Enthusiast | Co-Lead @CSI Tech Team</h3>
+<h1 align="center">Hey there, I'm <span style="color:#00BFFF;">R B Ravish</span>! 👋</h1>  
+<h3 align="center">Frontend Developer @ Cenit Labs | Tech Team Lead @ μLearn ASIET</h3>
 
 ---
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Lexlonnn!;Web+%26+Flutter+Developer;Tech+Explorer+%7C+Code+Dreamer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer+@+Cenit+Labs;Tech+Team+Lead+@+uLearn;Next.js+%26+Flutter+Expert;Winning+Hackathons+with+Code" />
 </p>
 
 ---
 
 ## 🚀 About Me
-Hey! I'm Lexlonnn 👨‍💻 — a passionate **Flutter & Web Developer** currently pursuing **B.Tech in CSE at ASIET**.  
+Hey! [span_4](start_span)[span_5](start_span)I'm **Ravish** (Lexlonnn) 👨‍💻 — a **Frontend & Full-Stack Developer** pursuing **B.Tech in CSE at ASIET (2024-2028)**[span_4](end_span)[span_5](end_span).
 
-I love turning ideas into sleek, functional apps & websites that don’t just work — they *wow*. Whether it’s building UIs with pixel-perfect precision or experimenting with new tech, I'm all in.
+[span_6](start_span)[span_7](start_span)I specialize in building end-to-end applications that prioritize high performance and immersive user experiences[span_6](end_span)[span_7](end_span). Currently, I am:
+- [span_8](start_span)💡 **Frontend Developer at Cenit Labs**, architecting scalable product UIs[span_8](end_span).
+- [span_9](start_span)🤝 **Tech Team Lead at μLearn ASIET**, managing technical roadmaps and community platforms[span_9](end_span).
+- [span_10](start_span)🏆 **Hackathon Winner** with a focus on social impact and innovation[span_10](end_span).
 
-💡 **Curious by nature**, I'm always diving into new tools, frameworks, and architectures.  
-🧠 **Lifelong learner** & proud **code dreamer**.  
-🤝 **Tech community enthusiast** — currently Co-Lead of the CSI Tech Team @ ASIET.  
-
-> *Code. Build. Break. Fix. Repeat.* That's how I grow.
+> *I don't just build websites; I engineer digital experiences.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🌐 Web & 3D Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### 💻 Programming & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+### ⚙️ Backend & Infrastructure
+![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-## 🧩 Projects
+## 🧩 Featured Projects
 
-### 📱 Dfree - *Anti-Drug Awareness App*
-A Flutter-based mobile app designed to raise awareness against drug abuse and promote a drug-free lifestyle.  
-> 🧠 **Goal:** Empower users with knowledge, tools, and support to stay drug-free.  
-> 🚀 **Built with:** Flutter, Dart  
-> 🔍 Features: Informative content, helpline resources, user interaction & more.
+### 🎟️ Ashwamedha Platform
+[span_11](start_span)A full-stack event management system for our college technical fest[span_11](end_span).
+- **[span_12](start_span)Features:** QR-based ticket generation, automated digital pass delivery, and admin monitoring tools[span_12](end_span).
+- **[span_13](start_span)Stack:** Next.js, Tailwind CSS, Appwrite[span_13](end_span).
 
----
+### 👁️ Blinkr (Hackathon Winner)
+[span_14](start_span)An eye-wellness automation tool designed to combat screen fatigue[span_14](end_span).
+- **[span_15](start_span)Achievement:** Won **First Place** at MBITS Hackathon for innovation[span_15](end_span).
+- **[span_16](start_span)Stack:** Python, JavaScript[span_16](end_span).
 
-## ✨ GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lexlonnn&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexlonnn&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lexxlonnn&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lexlonnn&theme=radical&row=1&column=6" />
-</p>
-
----
-
-## 🔗 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ravish-r-b-05697232a"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/__ravishh.__?igsh=MXhpd2t1NDk3NWRhMg=="><img src="https://img.shields.io/badge/-Instagram-DC3175?style=flat&logo=instagram&logoColor=white" /></a>
-</p>
+### 🎮 Brahma 2026
+[span_17](start_span)[span_18](start_span)Immersive 3D visual interactions and scroll-based animations for an official event site[span_17](end_span)[span_18](end_span).
+- **[span_19](start_span)[span_20](start_span)Stack:** Next.js, Three.js, Framer Motion[span_19](end_span)[span_20](end_span).
 
 ---
 
 ## ⚡ Fun Fact:
-> I turn coffee into code and bugs into features.
+> I turn caffeine into automated ticket systems and bugs into "visual features."
 
 ---
 
 ## 🧠 Currently Exploring:
-- React.js ⚛️  
-- Next.js 🔥  
-- Unity Game Development 🎮  
-- Tech Community Collaboration 🤝  
-
----
-
-<!-- Cool GIF just for fun -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</p>
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+- [span_21](start_span)[span_22](start_span)Advanced WebGL & 3D Web Interactivity 🎮[span_21](end_span)[span_22](end_span)
+- [span_23](start_span)Scaling Startup Architectures 🚀[span_23](end_span)
+- [span_24](start_span)Large-scale Community Mentorship 🤝[span_24](end_span)
