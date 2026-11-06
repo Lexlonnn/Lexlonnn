@@ -60,7 +60,7 @@ Built the **complete backend** powering the fest's platform, as part of a team.
 ### 🎟️ Ashwamedha
 **Fest event registration platform**
 
-Built the **complete website, frontend and backend**, as part of a team. Attendees register and get their tickets on it.
+Built the **complete website, frontend and backend**, as part of a team. 
 
 **👥 2k+ users**
 
