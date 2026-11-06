@@ -120,8 +120,9 @@ Built the **complete website, frontend and backend**, as part of a team.
 <img src="./assets/h-stats.svg" width="100%" alt="06 GitHub Stats" />
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lexlonnn&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lexlonnn&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+<img src="https://streak-stats.demolab.com?user=Lexlonnn&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=FF3D81&currStreakLabel=00F7FF" width="70%" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lexlonnn&bg_color=0D1117&color=00F7FF&line=7C3AED&point=FF3D81&area=true&area_color=7C3AED&hide_border=true" width="100%" alt="Contribution graph" />
 </div>
 
 <br/>
